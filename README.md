@@ -1,4 +1,5 @@
-<img width="311" height="162" alt="Untitled" src="https://github.com/user-attachments/assets/3b68ee03-48af-4deb-9df1-d4f1d0a000b4" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_wr5bh0wr5bh0wr5b" src="https://github.com/user-attachments/assets/bbbee251-f427-43c9-96fc-41433b9fd84c" />
+
 # 🛡️ SCAN-X v3.0 - Revolutionary Recon Framework
 
 ![Status](https://img.shields.io/badge/Status-Aggressive-red)
