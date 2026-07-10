@@ -1,3 +1,4 @@
+<img width="311" height="162" alt="Untitled" src="https://github.com/user-attachments/assets/3b68ee03-48af-4deb-9df1-d4f1d0a000b4" />
 # 🛡️ SCAN-X v3.0 - Revolutionary Recon Framework
 
 ![Status](https://img.shields.io/badge/Status-Aggressive-red)
